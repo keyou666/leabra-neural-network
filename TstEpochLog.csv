@@ -1,0 +1,8 @@
+$BaseInfo,$NetSize,$ListSize,|Run,|Epoch,#PerTrlMSec,#SSE,#AvgSSE,#PctErr,#PctCor,#CosDiff,#ABMem
+PreTestAB_EDL_ListSize20_SmallHip,default,20,0,0,0,61.84,0.2104,1,0,0.7253,0.1
+PostTestAB_EDL_ListSize20_SmallHip,default,20,0,0,0,55.99,0.1904,1,0,0.7571,0.2
+PreTestAB_NoEDL_ListSize20_SmallHip,default,20,0,0,0,65.22,0.2218,1,0,0.7035,0
+PostTestAB_NoEDL_ListSize20_SmallHip,default,20,0,0,0,58.56,0.1992,1,0,0.7825,0.1
+PreTestAB_EDL_ListSize20_MedHip,default,20,0,0,0,48.56,0.1652,1,0,0.7905,0.2
+PostTestAB_EDL_ListSize20_MedHip,default,20,0,0,0,39.91,0.1358,1,0,0.8636,0.55
+PreTestAB_NoEDL_ListSize20_MedHip,default,20,0,0,0,51.47,0.1751,1,0,0.8077,0.05
